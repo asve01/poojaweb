@@ -24,7 +24,7 @@ const HomeSection = ({ myData }) => {
           <div className="home-section-image">
             <figure>
               <img
-                src="images/home.jpg"
+                src="images/logo.png"
                 alt="home-section-photo"
                 className="img-style"
               />
